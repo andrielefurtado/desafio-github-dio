@@ -5,11 +5,11 @@
 - **mkdir nome da pasta**, cria pastas no diretório
 - **ls**, lista pastas do diretório
 - **ls -a**, lista pastas ocultas
-- **c ..**, volta no diretório anterior
+- **cd ..**, volta no diretório anterior
 - **cd nome da pasta**, acessa pasta específica do diretório
 - **git init**, cria um repositório git dentro do diretório
 - **git add**, adiciona o arquivo para preparação do repositório git
-- **git add * **, pega todos os arquivos com modificações e prepara para o repositório
+- **git add** *, pega todos os arquivos com modificações e prepara para o repositório
 - **git commit -m "commit inicial"**, coloca no git em posição inicial
 - **git commit -m "descrever modificações"**, recolocar em ponto inicial os arquivos
 - **git status**, mostra o status do repositório
